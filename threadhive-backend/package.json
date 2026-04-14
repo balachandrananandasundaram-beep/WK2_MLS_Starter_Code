@@ -4,7 +4,8 @@
   "scripts": {
     "queries": "node queries.js",
     "populate": "node populate_db.js",
-    "seed": "node scripts/seed.js"
+    "seed": "node scripts/seed.js",
+    "test:crud": "node scripts/crud-tests.js"
   },
   "type": "module",
   "keywords": [],
