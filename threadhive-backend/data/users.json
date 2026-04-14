@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "660000000000000000000001",
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000002",
+    "name": "Isha Kapoor",
+    "email": "isha.kapoor@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000003",
+    "name": "Rohan Nair",
+    "email": "rohan.nair@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000004",
+    "name": "Neha Sharma",
+    "email": "neha.sharma@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000005",
+    "name": "Vikram Rao",
+    "email": "vikram.rao@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000006",
+    "name": "Priya Menon",
+    "email": "priya.menon@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000007",
+    "name": "Kabir Sethi",
+    "email": "kabir.sethi@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000008",
+    "name": "Ananya Das",
+    "email": "ananya.das@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "660000000000000000000009",
+    "name": "Siddharth Iyer",
+    "email": "siddharth.iyer@example.com",
+    "password": "Password@123"
+  },
+  {
+    "_id": "66000000000000000000000a",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "password": "Password@123"
+  }
+]

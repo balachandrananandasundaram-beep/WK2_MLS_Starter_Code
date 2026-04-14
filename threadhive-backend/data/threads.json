@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "660000000000000000000201",
+    "title": "Best pattern for organizing Express routes?",
+    "content": "I am moving from a single file API to feature-based modules. What folder structure scales well?",
+    "subredditId": "660000000000000000000101"
+  },
+  {
+    "_id": "660000000000000000000202",
+    "title": "Async/await error handling in Node",
+    "content": "Do you prefer centralized middleware or local try/catch blocks for production APIs?",
+    "subredditId": "660000000000000000000101"
+  },
+  {
+    "_id": "660000000000000000000203",
+    "title": "When to use worker threads in Node.js",
+    "content": "I need to process large files and avoid blocking the event loop. Looking for practical guidance.",
+    "subredditId": "660000000000000000000101"
+  },
+  {
+    "_id": "660000000000000000000204",
+    "title": "Mongoose schema design tips",
+    "content": "How do you decide between embedding documents and referencing with ObjectId?",
+    "subredditId": "660000000000000000000101"
+  },
+  {
+    "_id": "660000000000000000000205",
+    "title": "CSS architecture for medium-sized apps",
+    "content": "BEM, CSS modules, or utility-first? What has worked long-term for your teams?",
+    "subredditId": "660000000000000000000102"
+  },
+  {
+    "_id": "660000000000000000000206",
+    "title": "REST vs GraphQL in 2026",
+    "content": "For internal dashboards and analytics features, what trade-offs are you seeing now?",
+    "subredditId": "660000000000000000000102"
+  },
+  {
+    "_id": "660000000000000000000207",
+    "title": "Improving Core Web Vitals quickly",
+    "content": "Which performance fixes gave you the fastest wins in production?",
+    "subredditId": "660000000000000000000102"
+  },
+  {
+    "_id": "660000000000000000000208",
+    "title": "Accessible form design checklist",
+    "content": "Can you share a practical checklist before shipping forms to production?",
+    "subredditId": "660000000000000000000102"
+  },
+  {
+    "_id": "660000000000000000000209",
+    "title": "Feature scaling for messy datasets",
+    "content": "Which normalization strategies are robust when outliers keep shifting over time?",
+    "subredditId": "660000000000000000000103"
+  },
+  {
+    "_id": "66000000000000000000020a",
+    "title": "Choosing evaluation metrics for imbalanced labels",
+    "content": "Accuracy is misleading in my case. Which metrics do you prioritize and why?",
+    "subredditId": "660000000000000000000103"
+  },
+  {
+    "_id": "66000000000000000000020b",
+    "title": "Data versioning strategies",
+    "content": "How are you versioning training data alongside model artifacts in a team setting?",
+    "subredditId": "660000000000000000000103"
+  },
+  {
+    "_id": "66000000000000000000020c",
+    "title": "Kubernetes deployment rollback workflow",
+    "content": "What rollback strategy keeps downtime low when a new release fails readiness checks?",
+    "subredditId": "660000000000000000000104"
+  },
+  {
+    "_id": "66000000000000000000020d",
+    "title": "Blue-green vs canary for API services",
+    "content": "For a small team, which release strategy gives the best safety-to-complexity ratio?",
+    "subredditId": "660000000000000000000104"
+  },
+  {
+    "_id": "66000000000000000000020e",
+    "title": "CI pipeline optimization ideas",
+    "content": "Our integration test stage is slow. What changes cut your build time the most?",
+    "subredditId": "660000000000000000000104"
+  },
+  {
+    "_id": "66000000000000000000020f",
+    "title": "Negotiating engineering compensation",
+    "content": "How do you prepare data points before discussing salary and title progression?",
+    "subredditId": "660000000000000000000105"
+  },
+  {
+    "_id": "660000000000000000000210",
+    "title": "From IC to tech lead",
+    "content": "Which responsibilities surprised you most during the transition?",
+    "subredditId": "660000000000000000000105"
+  },
+  {
+    "_id": "660000000000000000000211",
+    "title": "Portfolio projects that actually help hiring",
+    "content": "What project qualities make recruiters and hiring managers take notice?",
+    "subredditId": "660000000000000000000105"
+  },
+  {
+    "_id": "660000000000000000000212",
+    "title": "Prompt patterns for reliable code generation",
+    "content": "What prompt structure gives you the most predictable implementation quality?",
+    "subredditId": "660000000000000000000106"
+  },
+  {
+    "_id": "660000000000000000000213",
+    "title": "AI-assisted refactoring guardrails",
+    "content": "How do you keep generated refactors safe with tests and code review policies?",
+    "subredditId": "660000000000000000000106"
+  },
+  {
+    "_id": "660000000000000000000214",
+    "title": "Measuring productivity gains from AI tools",
+    "content": "Beyond anecdotes, what metrics do you track to prove impact?",
+    "subredditId": "660000000000000000000106"
+  }
+]

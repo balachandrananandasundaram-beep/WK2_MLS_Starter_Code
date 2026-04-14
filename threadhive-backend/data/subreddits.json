@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "660000000000000000000101",
+    "name": "javascript",
+    "description": "Discussions on JavaScript, Node.js, and ecosystem tooling.",
+    "author": "660000000000000000000001"
+  },
+  {
+    "_id": "660000000000000000000102",
+    "name": "webdev",
+    "description": "Frontend and backend web development practices and trends.",
+    "author": "660000000000000000000002"
+  },
+  {
+    "_id": "660000000000000000000103",
+    "name": "datascience",
+    "description": "Data analysis, ML experiments, and practical data workflows.",
+    "author": "660000000000000000000003"
+  },
+  {
+    "_id": "660000000000000000000104",
+    "name": "devops",
+    "description": "Infrastructure, deployments, CI/CD, and cloud operations.",
+    "author": "660000000000000000000004"
+  },
+  {
+    "_id": "660000000000000000000105",
+    "name": "careeradvice",
+    "description": "Career growth, interviewing, and engineering leadership topics.",
+    "author": "660000000000000000000005"
+  },
+  {
+    "_id": "660000000000000000000106",
+    "name": "ai-tools",
+    "description": "AI tools, prompting, and productivity workflows for developers.",
+    "author": "660000000000000000000006"
+  }
+]
